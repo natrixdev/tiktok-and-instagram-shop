@@ -6,4 +6,4 @@
 </a>
 </div>
 
-<h1>Our : |<a href="https://discord.gg/2NcF5p93Mz">Discord</a> | <a href="https://t.me/xql_shop">Telegram</a> | </h1> 
+<h1>Our : | <a href="https://discord.gg/2NcF5p93Mz">Discord</a> | <a href="https://t.me/xql_shop">Telegram</a> | </h1> 
